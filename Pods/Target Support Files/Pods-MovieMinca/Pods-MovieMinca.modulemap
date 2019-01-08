@@ -1,0 +1,6 @@
+framework module Pods_MovieMinca {
+  umbrella header "Pods-MovieMinca-umbrella.h"
+
+  export *
+  module * { export * }
+}
