@@ -51,4 +51,6 @@ class Movie : Object {
 // A 2-a modificare
 
 
-// FINALUL 
+// FINALUL
+
+//Sisu
